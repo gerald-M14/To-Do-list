@@ -1,4 +1,4 @@
-```markdown
+
 # Aplicación de Gestión de Tareas
 
 Esta es una aplicación de gestión de tareas construida con **React** y **Firebase**, que permite a los usuarios autenticar su sesión con Google y gestionar sus tareas de forma eficiente. Está desplegada en Netlify para un acceso sencillo.
@@ -49,4 +49,3 @@ Este proyecto fue desarrollado utilizando tecnologías modernas como **React**, 
 
 Creado por: Geraldhy Messú
 
-```
